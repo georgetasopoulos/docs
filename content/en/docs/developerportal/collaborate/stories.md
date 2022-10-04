@@ -67,7 +67,7 @@ For more information on stories, see the [Story Actions](#story-actions) section
 ### 2.3 Creating a New Label {#new-label}
 
 Click **New Label** to create a new label for your app:
-
+d
 {{< figure src="/attachments/developerportal/collaborate/stories/new-label.png"   width="400"  >}}
 
 * **Label caption** – the caption of the label
